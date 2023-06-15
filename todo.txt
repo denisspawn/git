@@ -1,1 +1,1 @@
-1. First git lesson
+1. Пройти пару тем по Git.
